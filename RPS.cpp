@@ -134,9 +134,9 @@ int takeStep()
 
 int main()
 {
-    cout<<"\n\t----------------------\n";
-    cout<<"\t|  TIC TAC TOE GAME  |";
-    cout<<"\n\t----------------------\n\n";
+    cout<<"\n\t------------------------------\n";
+    cout<<"\t|  ROCK PAPER SCISSORS GAME  |";
+    cout<<"\n\t------------------------------\n\n";
 
     startQuit();
     while(button=='S' || button=='R')
